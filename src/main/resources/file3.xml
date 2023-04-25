@@ -1,3 +1,4 @@
 <properties xmlns="http://www.springframework.org/schema/util">
     <prop key="key1"></prop>
+    <prop key="key2"></prop>
 </properties>
